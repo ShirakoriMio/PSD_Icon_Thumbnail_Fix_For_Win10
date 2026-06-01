@@ -1,0 +1,9 @@
+C:\Users\shira\source\repos\PsdOverlayNative\PsdOverlayNative\bin\Debug\PsdOverlayNative.dll
+C:\Users\shira\source\repos\PsdOverlayNative\PsdOverlayNative\bin\Debug\PsdOverlayNative.pdb
+C:\Users\shira\source\repos\PsdOverlayNative\PsdOverlayNative\bin\Debug\SharpShell.dll
+C:\Users\shira\source\repos\PsdOverlayNative\PsdOverlayNative\bin\Debug\SharpShell.xml
+C:\Users\shira\source\repos\PsdOverlayNative\PsdOverlayNative\obj\Debug\PsdOverlayNative.csproj.AssemblyReference.cache
+C:\Users\shira\source\repos\PsdOverlayNative\PsdOverlayNative\obj\Debug\PsdOverlayNative.csproj.CoreCompileInputs.cache
+C:\Users\shira\source\repos\PsdOverlayNative\PsdOverlayNative\obj\Debug\PsdOverl.39421073.Up2Date
+C:\Users\shira\source\repos\PsdOverlayNative\PsdOverlayNative\obj\Debug\PsdOverlayNative.dll
+C:\Users\shira\source\repos\PsdOverlayNative\PsdOverlayNative\obj\Debug\PsdOverlayNative.pdb
