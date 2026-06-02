@@ -1,7 +1,11 @@
+<img width="808" height="253" alt="PSD_Icon_Demo" src="https://github.com/user-attachments/assets/537f05b9-fd9f-404c-99c2-81b6cbb36cbf" />
+Backup image to show the result: https://imgur.com/a/EiT1OxY
+
 # PSD_Icon_Thumbnail_Fix_For_Win10
 Lightweight executable for Windows 10: fixes .psd file thumbnails in medium, large, and extra large view so they display the visual contents of the file and provide a "PS" icon over the file to easily identify projects in your Windows Explorer.
 
 =========================================
+
 PSD Thumbnail & Icon Overlay Fix, by Shirakori Mio
 Special thanks to Agamnentzar for the foundational thumbnail provider logic that makes PSD previews possible in Windows Explorer. 
 See their github: https://github.com/Agamnentzar/psd-thumbnail-provider
@@ -22,3 +26,4 @@ Because this is a free, open-source tool and not signed with a commercial certif
 You can verify the safety of this installer by reviewing the open-source code provided in this repository.
 
 =========================================
+
