@@ -1,4 +1,5 @@
 <img width="808" height="253" alt="PSD_Icon_Demo" src="https://github.com/user-attachments/assets/537f05b9-fd9f-404c-99c2-81b6cbb36cbf" />
+
 Backup image to show the result: https://imgur.com/a/EiT1OxY
 
 # PSD_Icon_Thumbnail_Fix_For_Win10
